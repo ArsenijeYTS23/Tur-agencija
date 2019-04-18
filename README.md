@@ -1,7 +1,7 @@
 # Tur-agencija
 -- Sajt tur agencije 
 
--- Mogucnos korisnika da bukira termine (mailom dobija povratnu informaciju), komentarise hotel, grad, odgovara na komentare...
+-- Mogucnost korisnika da bukira termine (mailom dobija povratnu informaciju), komentarise hotel, grad, odgovara na komentare...
 
 -- Admin panel: Superadmin upravlja komentarima (odobrava), ubacuje slike tekstove, cene, granicne datume (do kada vazi predsezona i od kada vazi postsezona), kao i popuste(na vise kreveta ili termin)..
 
